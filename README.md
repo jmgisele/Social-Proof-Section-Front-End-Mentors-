@@ -16,8 +16,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -28,8 +26,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+![desktop](screenshots/desktop.png)
+![desktop](screenshots/mobile.png)
 ### Links
 
 - [Solution URL](https://github.com/jmgisele/Social-Proof-Section-Front-End-Mentors-)
